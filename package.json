@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "build-ghpages": "npx @11ty/eleventy"
+  }
+}
