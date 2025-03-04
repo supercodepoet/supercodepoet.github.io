@@ -30,7 +30,18 @@
     "icon": "starfighter",
     "list": [
       { "name": "Han1 - Cunning", "url": "https://swudb.com/deck/WmItJMybLIm" },
-      { "name": "Jango - TT", "url": "https://swudb.com/deck/pGArkBQUecIf" }
+      { "name": "Jango - TT", "url": "https://swudb.com/deck/pGArkBQUecIf" },
+      { "name": "Quinlan - TT", "url": "https://swudb.com/deck/fvuSbqQmxVkD" },
+      { "name": "Sabine - ECL", "url": "https://swudb.com/deck/LttjksBeyfg" },
+      { "name": "Cad Bane - TT", "url": "https://swudb.com/deck/SXyscuKmz" },
+      { "name": "Anakin - Vigilance", "url": "https://swudb.com/deck/dVhJjRhrYwj" },
+      { "name": "Qi'ra - ECL", "url": "https://swudb.com/deck/jHBlHTINAEs" },
+      { "name": "Han1 - Command", "url": "https://swudb.com/deck/fRQBjEcvxx" },
+      { "name": "Bossk - Command", "url": "https://swudb.com/deck/BpuymszHL" },
+      { "name": "Han1 - Aggression", "url": "https://swudb.com/deck/sSSPRhcw" },
+      { "name": "Quinlan - ECL", "url": "https://swudb.com/deck/pLMlnWmUj" },
+      { "name": "Palpatine - Cunning", "url": "https://swudb.com/deck/HNCWuYbuxz" },
+      { "name": "Rey - TT", "url": "https://swudb.com/deck/PecpXzHaxb" }
     ]
   },
   {
@@ -38,8 +49,17 @@
     "name": "Fun",
     "icon": "robot-astromech",
     "list": [
+      { "name": "Maul - ECL", "url": "https://swudb.com/deck/SxFmKGytN" },
       { "name": "Chirrut - Vigilance", "url": "https://swudb.com/deck/QKhwJLuRNnj" },
-      { "name": "Rex - ECL", "url": "https://swudb.com/deck/sHNhrNlAm" }
+      { "name": "Rex - ECL", "url": "https://swudb.com/deck/sHNhrNlAm" },
+      { "name": "Boba2 - Cunning", "url": "https://swudb.com/deck/JqSPwVsEFdqG" },
+      { "name": "Sabine - Cunning", "url": "https://swudb.com/deck/gWHBfLVfpd" },
+      { "name": "Hondo - Vigilance", "url": "https://swudb.com/deck/xXmzoqCgVoHwN" },
+      { "name": "Han2 - Vigilance", "url": "https://swudb.com/deck/VJQsUgbUaTwT" },
+      { "name": "Luke - Command", "url": "https://swudb.com/deck/GXozmcxRk" },
+      { "name": "Grievous - Command", "url": "https://swudb.com/deck/LTSqwwPLpz" },
+      { "name": "Rey - Vigilance", "url": "https://swudb.com/deck/mMmkVCMwYY" },
+      { "name": "Inquistor - Vigilence", "url": "https://swudb.com/deck/NhmXJDrcCJhn" }
     ]
   }
 ]
