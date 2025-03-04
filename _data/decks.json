@@ -1,0 +1,29 @@
+[
+  {
+    "id": "theorycrafting",
+    "name": "Theorycrafting",
+    "icon": "brain-circuit",
+    "list": [
+      { "name": "Set 4 - Piett - Vigilance", "url": "https://swudb.com/deck/xWpQVVyHav" },
+      { "name": "Set 4 - Piett - Aggression", "url": "https://swudb.com/deck/klYnHlEmcWw" }
+    ]
+  },
+  {
+    "id": "meta",
+    "name": "Meta",
+    "icon": "starfighter",
+    "list": [
+      { "name": "Han1 - Cunning", "url": "https://swudb.com/deck/WmItJMybLIm" },
+      { "name": "Jango - TT", "url": "https://swudb.com/deck/pGArkBQUecIf" }
+    ]
+  },
+  {
+    "id": "fun",
+    "name": "Fun",
+    "icon": "robot-astromech",
+    "list": [
+      { "name": "Chirrut - Vigilance", "url": "https://swudb.com/deck/QKhwJLuRNnj" },
+      { "name": "Rex - ECL", "url": "https://swudb.com/deck/sHNhrNlAm" }
+    ]
+  }
+]

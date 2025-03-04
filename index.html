@@ -1,0 +1,39 @@
+---
+layout: layout.html
+---
+<wa-page>
+  <header slot="header">
+    <h1><wa-icon name="starfighter"></wa-icon> Star Wars Unlimited</h1>
+  </header>
+  <main class="wa-body-l">
+    <wa-tab-group>
+      {% for deck in decks %}
+        <wa-tab panel="{{ deck.id }}">
+          <div class="wa-cluster wa-gap-xs">
+            <wa-icon name="{{ deck.icon }}"></wa-icon>
+            {{ deck.name }}
+          </div>
+        </wa-tab>
+        <wa-tab-panel name="{{ deck.id }}">
+          <table>
+            <thead>
+              <tr>
+                <th width="25%">Deck</th>
+                <th>Link</th>
+                <th></th>
+              </tr>
+            </thead>
+            <tbody>
+              {% for item in deck.list %}
+              <tr>
+                <td>{{ item.name }}</td>
+                <td><a href="{{ item.url }}" target="_blank">{{ item.url }}</a></td>
+                <td><wa-copy-button value="{{ item.url }}"></wa-copy-button></td>
+              </tr>
+              {% endfor %}
+          </table>
+        </wa-tab-panel>
+      {% endfor %}
+    </wa-tab-group>
+  </main>
+</wa-page>
