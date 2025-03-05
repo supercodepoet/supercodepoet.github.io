@@ -5,35 +5,28 @@ layout: layout.html
   <header slot="header">
     <h1><wa-icon name="starfighter"></wa-icon> Star Wars Unlimited</h1>
   </header>
-  <main class="wa-body-md">
-    <wa-tab-group>
+  <main class="wa-body-m">
+    <div class="wa-stack wa-gap-m">
       {% for deck in decks %}
-        <wa-tab panel="{{ deck.id }}">
-          <div class="wa-cluster wa-gap-xs">
-            <wa-icon name="{{ deck.icon }}"></wa-icon>
-            {{ deck.name }}
-          </div>
-        </wa-tab>
-        <wa-tab-panel name="{{ deck.id }}">
-          <table>
-            <thead>
-              <tr>
-                <th width="25%">Deck</th>
-                <th>Link</th>
-                <th></th>
-              </tr>
-            </thead>
-            <tbody>
-              {% for item in deck.list %}
-              <tr>
-                <td>{{ item.name }}</td>
-                <td><a href="{{ item.url }}" target="_blank">{{ item.url }}</a></td>
-                <td><wa-copy-button value="{{ item.url }}"></wa-copy-button></td>
-              </tr>
-              {% endfor %}
-          </table>
-        </wa-tab-panel>
+      <wa-details style="max-width: 450px;">
+        <span slot="summary">
+          <wa-icon name="{{ deck.icon }}"></wa-icon> {{ deck.name }}
+        </span>
+        <div class="wa-stack wa-gap-s">
+          <dl>
+            {% for item in deck.list %}
+              <dt>{{ item.name }}</dt>
+              <dd>
+                <div class="wa-flank:end">
+                  <a href="{{ item.url }}" target="_blank">{{ item.url }}</a>
+                  <wa-copy-button slot="icon" value="{{ item.url }}"></wa-copy-button>
+                </div>
+              </dd>
+            {% endfor %}
+          </dt>
+        </div>
+      </wa-details>
       {% endfor %}
-    </wa-tab-group>
+    </div>
   </main>
 </wa-page>
