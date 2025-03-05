@@ -14,13 +14,16 @@
   </head>
   <body>
     <wa-page>
-  <header slot="header">
-    <h1><wa-icon name="starfighter"></wa-icon> Star Wars Unlimited</h1>
+  <header slot="header" style="background-color: black;">
+    <img src="/assets/images/star-wars-unlimited-logo.webp" width="88" height="64" />
   </header>
+  <div slot="main-header" style="justify-content: center;">
+    <h2><wa-avatar image="/assets/images/logo.png"></wa-avatar> supercodepoet's decks</h2>
+  </div>
   <main class="wa-body-m">
-    <div class="wa-stack wa-gap-m">
+    <div class="wa-stack wa-gap-m wa-align-items-center">
       
-      <wa-details style="max-width: 450px;">
+      <wa-details style="min-width: 450px;">
         <span slot="summary">
           <wa-icon name="brain-circuit"></wa-icon> Theorycrafting
         </span>
@@ -175,7 +178,7 @@
         </div>
       </wa-details>
       
-      <wa-details style="max-width: 450px;">
+      <wa-details style="min-width: 450px;">
         <span slot="summary">
           <wa-icon name="starfighter"></wa-icon> Meta
         </span>
@@ -290,7 +293,7 @@
         </div>
       </wa-details>
       
-      <wa-details style="max-width: 450px;">
+      <wa-details style="min-width: 450px;">
         <span slot="summary">
           <wa-icon name="robot-astromech"></wa-icon> Fun
         </span>
