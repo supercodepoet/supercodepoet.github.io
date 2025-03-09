@@ -16,6 +16,9 @@
       { "name": "Set 4 - Thrawn2 - Aggression", "url": "https://swudb.com/deck/ITwXhEIUef" },
       { "name": "Set 4 - Han3 - Aggression", "url": "https://swudb.com/deck/IBhcVMypF" },
       { "name": "Set 4 - Han3 - Command", "url": "https://swudb.com/deck/tSHQkrCQuwCLC" },
+      { "name": "Set 4 - Boba3 - Cunning", "url": "https://swudb.com/deck/osCoTwxvfY" },
+      { "name": "Set 4 - Boba3 - TT", "url": "https://swudb.com/deck/lrWrrvqKQnD" },
+      { "name": "Set 4 - Dooku - Cunning", "url": "https://swudb.com/deck/QftKusQBWKxAu" },
       { "name": "Set 4 - Jango - TT", "url": "https://swudb.com/deck/gkTULhfGXXP" },
       { "name": "Set 4 - Han1 - Cunning", "url": "https://swudb.com/deck/VekfdTGSJ" },
       { "name": "Set 4 - Quinlan - TT", "url": "https://swudb.com/deck/mISXYwrYxTyX" },
@@ -60,6 +63,17 @@
       { "name": "Grievous - Command", "url": "https://swudb.com/deck/LTSqwwPLpz" },
       { "name": "Rey - Vigilance", "url": "https://swudb.com/deck/mMmkVCMwYY" },
       { "name": "Inquistor - Vigilence", "url": "https://swudb.com/deck/NhmXJDrcCJhn" }
+    ]
+  },
+  {
+    "id": "twin-suns",
+    "name": "Twin Suns",
+    "icon": "swords-laser",
+    "list": [
+      { "name": "Boba3 - Jango - Vigilance", "url": "https://swudb.com/deck/KFwXLkCxt" },
+      { "name": "Piett - Thrawn2 - Aggression", "url": "https://swudb.com/deck/BdEXmHPfA" },
+      { "name": "Han1 - Chewbacca - Command", "url": "https://swudb.com/deck/ljNqBgoyMrUIj" },
+      { "name": "Luke2 - Wedge - Vigilance", "url": "https://swudb.com/deck/umWIHtdzzeCXc" }
     ]
   }
 ]
