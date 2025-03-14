@@ -6,6 +6,7 @@
     "list": [
       { "name": "Set 4 - Piett - Vigilance", "url": "https://swudb.com/deck/xWpQVVyHav" },
       { "name": "Set 4 - Piett - Aggression", "url": "https://swudb.com/deck/klYnHlEmcWw" },
+      { "name": "Set 4 - Kazuda - TT", "url": "https://swudb.com/deck/jjtPYReRbDxl" },
       { "name": "Set 4 - Luke2 - TT", "url": "https://swudb.com/deck/mgvjrKMSA" },
       { "name": "Set 4 - Luke2 - Command", "url": "https://swudb.com/deck/ozEtDyNfBP" },
       { "name": "Set 4 - Poe Dameron - ECL", "url": "https://swudb.com/deck/DIlLWfzzv" },
@@ -24,7 +25,8 @@
       { "name": "Set 4 - Quinlan - TT", "url": "https://swudb.com/deck/mISXYwrYxTyX" },
       { "name": "Set 4 - Sabine - ECL", "url": "https://swudb.com/deck/IrFjSkYEC" },
       { "name": "Set 4 - Cad Bane - TT", "url": "https://swudb.com/deck/FhqTFXxrf" },
-      { "name": "Set 4 - Gar Saxon - Cunning", "url": "https://swudb.com/deck/SkJltThnmp" }
+      { "name": "Set 4 - Gar Saxon - Cunning", "url": "https://swudb.com/deck/SkJltThnmp" },
+      { "name": "Set 4 - Boba2 - Cunning", "url": "https://swudb.com/deck/pXfUWuvmf" }
     ]
   },
   {
@@ -71,10 +73,14 @@
     "icon": "swords-laser",
     "list": [
       { "name": "Boba3 - Jango - Vigilance", "url": "https://swudb.com/deck/KFwXLkCxt" },
+      { "name": "Leia - Sabine - Vigilance", "url": "https://swudb.com/deck/NKqXGHNtvz" },
       { "name": "Piett - Thrawn2 - Aggression", "url": "https://swudb.com/deck/BdEXmHPfA" },
       { "name": "Han1 - Chewbacca - Command", "url": "https://swudb.com/deck/ljNqBgoyMrUIj" },
       { "name": "Luke2 - Wedge - Vigilance", "url": "https://swudb.com/deck/umWIHtdzzeCXc" },
-      { "name": "Boba2 - Mandalorian - Aggression", "url": "https://swudb.com/deck/TIXWTBAbV" }
+      { "name": "Boba2 - Mandalorian - Aggression", "url": "https://swudb.com/deck/TIXWTBAbV" },
+      { "name": "Rey - Kaz - Aggression", "url": "https://swudb.com/deck/bjupapCqWYY" },
+      { "name": "Anakin - Obi-Wan - Cunning", "url": "https://swudb.com/deck/ngkUlDwdwWCN" },
+      { "name": "Luke2 - Wedge - Vigilance", "url": "https://swudb.com/deck/umWIHtdzzeCXc" }
     ]
   }
 ]
