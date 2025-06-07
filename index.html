@@ -6,46 +6,25 @@ layout: layout.html
     <img src="/assets/images/star-wars-unlimited-logo.webp" width="88" height="64" />
   </header>
   <main class="wa-body-m">
-    <div class="wa-stack wa-gap-m wa-align-items-center">
+    <div class="wa-align-items-center">
+      <wa-callout variant="warning">
+        When playing on <a href="https://petranaki.net" target="_blank">Petranaki</a>, use the SWU Stats link. By using that
+        link, it will aggregate stats for the deck.
+      </wa-callout>
     {% for deck in decks %}
-      <wa-card>
-        <div slot="header">
+      <wa-details open>
+        <div slot="summary">
           <h4><wa-icon name="{{ deck.icon }}"></wa-icon> {{ deck.name }}</h4>
         </div>
-        <table class="wa-zebra-rows wa-brand">
-          <caption>
-            <wa-callout variant="warning">
-              When playing on <a href="https://petranaki.net" target="_blank">Petranaki</a>, use the SWU Stats link. By using that link, it will aggregate stats for the deck.
-            </wa-callout>
-          </caption>
-          <thead>
-            <tr>
-              <th>Name</th>
-              <th>SWUDB</th>
-              <th>SWU STATS</th>
-            </tr>
-          </thead>
-          <tbody>
-          {% for item in deck.list %}
-            <tr>
-              <td width="25%"><strong>{{ item.name }}</strong></td>
-              <td width="35%">
-                <div class="wa-flank:end">
-                  <a href="{{ item.swudb }}" target="_blank">{{ item.swudb }}</a>
-                  <wa-copy-button slot="icon" value="{{ item.swudb }}"></wa-copy-button>
-                </div>
-              </td>
-              <td>
-                <div class="wa-flank:end">
-                  <a href="{{ item.swustats }}" target="_blank">{{ item.swustats }}</a>
-                  <wa-copy-button slot="icon" value="{{ item.swustats }}"></wa-copy-button>
-                </div>
-              </td>
-            </tr>
-          {% endfor %}
-          </tbody>
-        </table>
-      </wa-card>
+        <ul>
+        {% for item in deck.list %}
+          <li>
+            <a href="{{ item.swudb }}" target="_blank">{{ item.name }}</a> -
+            <wa-copy-button value="{{ item.swustats }}" copy-label="SWU Stats"></wa-copy-button>
+          </li>
+        {% endfor %}
+        </ul>
+      </wa-details>
     {% endfor %}
     </div>
   </main>
