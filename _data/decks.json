@@ -1,77 +1,74 @@
 [
   {
-    "id": "meta",
-    "name": "Meta",
-    "icon": "starfighter",
-    "list": [
-      { "name": "Jango - TT", "url": "https://swudb.com/deck/gkTULhfGXXP" },
-      { "name": "Han1 - Cunning", "url": "https://swudb.com/deck/VekfdTGSJ" },
-      { "name": "Quinlan - TT", "url": "https://swudb.com/deck/mISXYwrYxTyX" },
-      { "name": "Piett - Vigilance", "url": "https://swudb.com/deck/xWpQVVyHav" },
-      { "name": "Kazuda - TT", "url": "https://swudb.com/deck/jjtPYReRbDxl" },
-      { "name": "Sabine - ECL", "url": "https://swudb.com/deck/IrFjSkYEC" },
-      { "name": "Cad Bane - TT", "url": "https://swudb.com/deck/FhqTFXxrf" },
-      { "name": "Anakin - Vigilance", "url": "https://swudb.com/deck/dVhJjRhrYwj" },
-      { "name": "Qi'ra - ECL", "url": "https://swudb.com/deck/jHBlHTINAEs" },
-      { "name": "Han1 - Command", "url": "https://swudb.com/deck/fRQBjEcvxx" },
-      { "name": "Bossk - Command", "url": "https://swudb.com/deck/BpuymszHL" },
-      { "name": "Palpatine - Cunning", "url": "https://swudb.com/deck/HNCWuYbuxz" },
-      { "name": "Rey - TT", "url": "https://swudb.com/deck/PecpXzHaxb" }
-    ]
-  },
-  {
-    "id": "theorycrafting",
-    "name": "Theorycrafting",
+    "id": "set5-theorycrafting",
+    "name": "Set 5 - Theorycrafting",
     "icon": "brain-circuit",
     "list": [
-      { "name": "Boba2 - Cunning", "url": "https://swudb.com/deck/pXfUWuvmf" },
-      { "name": "Boba3 - Cunning", "url": "https://swudb.com/deck/osCoTwxvfY" },
-      { "name": "Boba3 - TT", "url": "https://swudb.com/deck/lrWrrvqKQnD" },
-      { "name": "Dooku - Cunning", "url": "https://swudb.com/deck/QftKusQBWKxAu" },
-      { "name": "Gar Saxon - Cunning", "url": "https://swudb.com/deck/SkJltThnmp" },
-      { "name": "Han1 - Aggression", "url": "https://swudb.com/deck/sSSPRhcw" },
-      { "name": "Han3 - Aggression", "url": "https://swudb.com/deck/IBhcVMypF" },
-      { "name": "Han3 - Command", "url": "https://swudb.com/deck/tSHQkrCQuwCLC" },
-      { "name": "Luke2 - Command", "url": "https://swudb.com/deck/ozEtDyNfBP" },
-      { "name": "Luke2 - TT", "url": "https://swudb.com/deck/mgvjrKMSA" },
-      { "name": "Piett - Aggression", "url": "https://swudb.com/deck/klYnHlEmcWw" },
-      { "name": "Poe Dameron - ECL", "url": "https://swudb.com/deck/DIlLWfzzv" },
-      { "name": "Thrawn2 - Aggression", "url": "https://swudb.com/deck/ITwXhEIUef" },
-      { "name": "Vader2 - Cunning", "url": "https://swudb.com/deck/IruTcLxM" },
-      { "name": "Vader2 - Vigilance", "url": "https://swudb.com/deck/rtYrESwTtAAt" },
-      { "name": "Wedge - TT", "url": "https://swudb.com/deck/KUejGVqK" },
-      { "name": "Wedge - Cunning", "url": "https://swudb.com/deck/bSspCgMkp" }
-    ]
-  },
-  {
-    "id": "fun",
-    "name": "Fun",
-    "icon": "robot-astromech",
-    "list": [
-      { "name": "Chirrut - Vigilance", "url": "https://swudb.com/deck/QKhwJLuRNnj" },
-      { "name": "Grievous - Command", "url": "https://swudb.com/deck/LTSqwwPLpz" },
-      { "name": "Hondo - Vigilance", "url": "https://swudb.com/deck/xXmzoqCgVoHwN" },
-      { "name": "Inquistor - Vigilence", "url": "https://swudb.com/deck/NhmXJDrcCJhn" },
-      { "name": "Luke - Command", "url": "https://swudb.com/deck/GXozmcxRk" },
-      { "name": "Maul - ECL", "url": "https://swudb.com/deck/SxFmKGytN" },
-      { "name": "Rex - ECL", "url": "https://swudb.com/deck/sHNhrNlAm" },
-      { "name": "Rey - Vigilance", "url": "https://swudb.com/deck/mMmkVCMwYY" },
-      { "name": "Sabine - Cunning", "url": "https://swudb.com/deck/gWHBfLVfpd" }
-    ]
-  },
-  {
-    "id": "twin-suns",
-    "name": "Twin Suns",
-    "icon": "swords-laser",
-    "list": [
-      { "name": "Anakin - Obi-Wan - Cunning", "url": "https://swudb.com/deck/ngkUlDwdwWCN" },
-      { "name": "Boba2 - Mandalorian - Aggression", "url": "https://swudb.com/deck/TIXWTBAbV" },
-      { "name": "Boba3 - Jango - Vigilance", "url": "https://swudb.com/deck/KFwXLkCxt" },
-      { "name": "Han1 - Chewbacca - Command", "url": "https://swudb.com/deck/ljNqBgoyMrUIj" },
-      { "name": "Leia - Sabine - Vigilance", "url": "https://swudb.com/deck/NKqXGHNtvz" },
-      { "name": "Luke2 - Wedge - Vigilance", "url": "https://swudb.com/deck/umWIHtdzzeCXc" },
-      { "name": "Piett - Thrawn2 - Aggression", "url": "https://swudb.com/deck/BdEXmHPfA" },
-      { "name": "Rey - Kaz - Aggression", "url": "https://swudb.com/deck/bjupapCqWYY" }
+      {
+        "name": "Cad Bane - TT",
+        "swudb": "https://swudb.com/deck/FhqTFXxrf",
+        "swustats": "https://swustats.net/TCGEngine/NextTurn.php?gameName=24005&playerID=1&folderPath=SWUDeck"
+      },
+      {
+        "name": "Gar Saxon - Cunning",
+        "swudb": "https://swudb.com/deck/SkJltThnmp",
+        "swustats": "https://swustats.net/TCGEngine/NextTurn.php?gameName=47989&playerID=1&folderPath=SWUDeck"
+      },
+      {
+        "name": "Gar Saxon - ECL",
+        "swudb": "https://swudb.com/deck/cUBkeWCIV",
+        "swustats": "https://swustats.net/TCGEngine/NextTurn.php?gameName=51795&playerID=1&folderPath=SWUDeck"
+      },
+      {
+        "name": "Han2 - Vigilance",
+        "swudb": "https://swudb.com/deck/TCUknyhyqy",
+        "swustats": "https://swustats.net/TCGEngine/NextTurn.php?gameName=50787&playerID=1&folderPath=SWUDeck"
+      },
+      {
+        "name": "Han2 - Vigilance (Force)",
+        "swudb": "https://swudb.com/deck/TCUknyhyqy",
+        "swustats": "https://swustats.net/TCGEngine/NextTurn.php?gameName=51393&playerID=1&folderPath=SWUDeck"
+      },
+      {
+        "name": "Obi-Wan5 - Cunning",
+        "swudb": "https://swudb.com/deck/EqaGmSKsACzTF",
+        "swustats": "https://swustats.net/TCGEngine/NextTurn.php?gameName=49804&playerID=1&folderPath=SWUDeck"
+      },
+      {
+        "name": "Obi-Wan5 - Vigilance",
+        "swudb": "https://swudb.com/deck/uywIqInFr",
+        "swustats": "https://swustats.net/TCGEngine/NextTurn.php?gameName=51793&playerID=1&folderPath=SWUDeck"
+      },
+      {
+        "name": "Qi'ra - ECL",
+        "swudb": "https://swudb.com/deck/jHBlHTINAEs",
+        "swustats": "https://swustats.net/TCGEngine/NextTurn.php?gameName=51394&playerID=1&folderPath=SWUDeck"
+      },
+      {
+        "name": "Qui-Gon - Command",
+        "swudb": "https://swudb.com/deck/hHsEqccvwe",
+        "swustats": "https://swustats.net/TCGEngine/NextTurn.php?gameName=49199&playerID=1&folderPath=SWUDeck"
+      },
+      {
+        "name": "Quinlan - TT",
+        "swudb": "https://swudb.com/deck/mISXYwrYxTyX",
+        "swustats": "https://swustats.net/TCGEngine/NextTurn.php?gameName=24003&playerID=1&folderPath=SWUDeck"
+      },
+      {
+        "name": "Rey - Vigilance",
+        "swudb": "https://swudb.com/deck/MUUnWMDMw",
+        "swustats": "https://swustats.net/TCGEngine/NextTurn.php?gameName=51794&playerID=1&folderPath=SWUDeck"
+      },
+      {
+        "name": "Talzin - Aggression",
+        "swudb": "https://swudb.com/deck/flBkhszmcMqj",
+        "swustats": "https://swustats.net/TCGEngine/NextTurn.php?gameName=51792&playerID=1&folderPath=SWUDeck"
+      },
+      {
+        "name": "Talzin - Command",
+        "swudb": "https://swudb.com/deck/lfDQFxpqB",
+        "swustats": "https://swustats.net/TCGEngine/NextTurn.php?gameName=51791&playerID=1&folderPath=SWUDeck"
+      }
     ]
   }
 ]

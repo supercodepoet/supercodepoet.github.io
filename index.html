@@ -5,31 +5,48 @@ layout: layout.html
   <header slot="header" style="background-color: black;">
     <img src="/assets/images/star-wars-unlimited-logo.webp" width="88" height="64" />
   </header>
-  <div slot="main-header" style="justify-content: center;">
-    <h2><wa-avatar image="/assets/images/logo.png"></wa-avatar> supercodepoet's decks</h2>
-  </div>
   <main class="wa-body-m">
     <div class="wa-stack wa-gap-m wa-align-items-center">
-      {% for deck in decks %}
-      <wa-details style="min-width: 450px;">
-        <span slot="summary">
-          <wa-icon name="{{ deck.icon }}"></wa-icon> {{ deck.name }}
-        </span>
-        <div class="wa-stack wa-gap-s">
-          <dl>
-            {% for item in deck.list %}
-              <dt>{{ item.name }}</dt>
-              <dd>
-                <div class="wa-flank:end">
-                  <a href="{{ item.url }}" target="_blank">{{ item.url }}</a>
-                  <wa-copy-button slot="icon" value="{{ item.url }}"></wa-copy-button>
-                </div>
-              </dd>
-            {% endfor %}
-          </dt>
+    {% for deck in decks %}
+      <wa-card>
+        <div slot="header">
+          <h4><wa-icon name="{{ deck.icon }}"></wa-icon> {{ deck.name }}</h4>
         </div>
-      </wa-details>
-      {% endfor %}
+        <table class="wa-zebra-rows wa-brand">
+          <caption>
+            <wa-callout variant="warning">
+              When playing on <a href="https://petranaki.net" target="_blank">Petranaki</a>, use the SWU Stats link. By using that link, it will aggregate stats for the deck.
+            </wa-callout>
+          </caption>
+          <thead>
+            <tr>
+              <th>Name</th>
+              <th>SWUDB</th>
+              <th>SWU STATS</th>
+            </tr>
+          </thead>
+          <tbody>
+          {% for item in deck.list %}
+            <tr>
+              <td width="25%"><strong>{{ item.name }}</strong></td>
+              <td width="35%">
+                <div class="wa-flank:end">
+                  <a href="{{ item.swudb }}" target="_blank">{{ item.swudb }}</a>
+                  <wa-copy-button slot="icon" value="{{ item.swudb }}"></wa-copy-button>
+                </div>
+              </td>
+              <td>
+                <div class="wa-flank:end">
+                  <a href="{{ item.swustats }}" target="_blank">{{ item.swustats }}</a>
+                  <wa-copy-button slot="icon" value="{{ item.swustats }}"></wa-copy-button>
+                </div>
+              </td>
+            </tr>
+          {% endfor %}
+          </tbody>
+        </table>
+      </wa-card>
+    {% endfor %}
     </div>
   </main>
 </wa-page>
