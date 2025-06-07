@@ -30,6 +30,11 @@
         "swustats": "https://swustats.net/TCGEngine/NextTurn.php?gameName=51393&playerID=1&folderPath=SWUDeck"
       },
       {
+        "name": "Kanan - Vigilance",
+        "swudb": "https://swudb.com/deck/xFwmNpbNloCv",
+        "swustats": "https://swustats.net/TCGEngine/NextTurn.php?gameName=51818&playerID=1&folderPath=SWUDeck"
+      },
+      {
         "name": "Obi-Wan5 - Cunning",
         "swudb": "https://swudb.com/deck/EqaGmSKsACzTF",
         "swustats": "https://swustats.net/TCGEngine/NextTurn.php?gameName=49804&playerID=1&folderPath=SWUDeck"
