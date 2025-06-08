@@ -5,6 +5,11 @@
     "icon": "brain-circuit",
     "list": [
       {
+        "name": "Ahsoka5 - Command",
+        "swudb": "https://swudb.com/deck/jkPNwFnnXgtP",
+        "swustats": "https://swustats.net/TCGEngine/NextTurn.php?gameName=51912&playerID=1&folderPath=SWUDeck"
+      },
+      {
         "name": "Cad Bane - TT",
         "swudb": "https://swudb.com/deck/FhqTFXxrf",
         "swustats": "https://swustats.net/TCGEngine/NextTurn.php?gameName=24005&playerID=1&folderPath=SWUDeck"
