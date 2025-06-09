@@ -40,6 +40,11 @@
         "swustats": "https://swustats.net/TCGEngine/NextTurn.php?gameName=51818&playerID=1&folderPath=SWUDeck"
       },
       {
+        "name": "Kylo5 - Data Vault",
+        "swudb": "https://swudb.com/deck/TtClYeCH",
+        "swustats": "https://swustats.net/TCGEngine/NextTurn.php?gameName=52392&playerID=1&folderPath=SWUDeck"
+      },
+      {
         "name": "Obi-Wan5 - Cunning",
         "swudb": "https://swudb.com/deck/EqaGmSKsACzTF",
         "swustats": "https://swustats.net/TCGEngine/NextTurn.php?gameName=49804&playerID=1&folderPath=SWUDeck"
@@ -48,6 +53,11 @@
         "name": "Obi-Wan5 - Vigilance",
         "swudb": "https://swudb.com/deck/uywIqInFr",
         "swustats": "https://swustats.net/TCGEngine/NextTurn.php?gameName=51793&playerID=1&folderPath=SWUDeck"
+      },
+      {
+        "name": "Qi'ra - Data Vault",
+        "swudb": "https://swudb.com/deck/rPSGffnCEela",
+        "swustats": "https://swustats.net/TCGEngine/NextTurn.php?gameName=52235&playerID=1&folderPath=SWUDeck"
       },
       {
         "name": "Qi'ra - ECL",
@@ -63,6 +73,11 @@
         "name": "Quinlan - TT",
         "swudb": "https://swudb.com/deck/mISXYwrYxTyX",
         "swustats": "https://swustats.net/TCGEngine/NextTurn.php?gameName=24003&playerID=1&folderPath=SWUDeck"
+      },
+      {
+        "name": "Revan - Cunning",
+        "swudb": "https://swudb.com/deck/VDRYeyzucc",
+        "swustats": "https://swustats.net/TCGEngine/NextTurn.php?gameName=52395&playerID=1&folderPath=SWUDeck"
       },
       {
         "name": "Rey - Vigilance",
