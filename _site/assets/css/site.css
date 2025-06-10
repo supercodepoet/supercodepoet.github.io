@@ -5,3 +5,29 @@ body {
   padding: 0;
   margin: 0;
 }
+
+.play-button {
+  --success-color: white;
+  --error-color: white;
+  color: white;
+}
+
+.play-button::part(button) {
+  background-color: var(--wa-color-brand);
+  border-radius: 6px;
+  font-weight: bold;
+  transition: all var(--wa-transition-slow) var(--wa-transition-easing);
+}
+
+.play-button::part(button):hover {
+  transform: scale(1.05);
+}
+
+.play-button::part(button):active {
+  transform: translateY(1px);
+}
+
+.play-button::part(button):focus-visible {
+  outline: solid 2px var(--wa-color-brand);
+  outline-offset: 4px;
+}

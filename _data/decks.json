@@ -7,102 +7,162 @@
       {
         "name": "Ahsoka5 - Command",
         "swudb": "https://swudb.com/deck/jkPNwFnnXgtP",
-        "swustats": "https://swustats.net/TCGEngine/NextTurn.php?gameName=51912&playerID=1&folderPath=SWUDeck"
+        "swustats": {
+          "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=51912&playerID=1&folderPath=SWUDeck",
+          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=51912"
+        }
       },
       {
         "name": "Cad Bane - TT",
         "swudb": "https://swudb.com/deck/FhqTFXxrf",
-        "swustats": "https://swustats.net/TCGEngine/NextTurn.php?gameName=24005&playerID=1&folderPath=SWUDeck"
+        "swustats": {
+          "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=24005&playerID=1&folderPath=SWUDeck",
+          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=24005"
+        }
       },
       {
         "name": "Gar Saxon - Cunning",
         "swudb": "https://swudb.com/deck/SkJltThnmp",
-        "swustats": "https://swustats.net/TCGEngine/NextTurn.php?gameName=47989&playerID=1&folderPath=SWUDeck"
+        "swustats": {
+          "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=47989&playerID=1&folderPath=SWUDeck",
+          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=47989"
+        }
       },
       {
         "name": "Gar Saxon - ECL",
         "swudb": "https://swudb.com/deck/cUBkeWCIV",
-        "swustats": "https://swustats.net/TCGEngine/NextTurn.php?gameName=51795&playerID=1&folderPath=SWUDeck"
+        "swustats": {
+          "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=51795&playerID=1&folderPath=SWUDeck",
+          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=51795"
+        }
       },
       {
         "name": "Han2 - Vigilance",
         "swudb": "https://swudb.com/deck/TCUknyhyqy",
-        "swustats": "https://swustats.net/TCGEngine/NextTurn.php?gameName=50787&playerID=1&folderPath=SWUDeck"
+        "swustats": {
+          "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=50787&playerID=1&folderPath=SWUDeck",
+          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=50787"
+        }
       },
       {
         "name": "Han2 - Vigilance (Force)",
         "swudb": "https://swudb.com/deck/TCUknyhyqy",
-        "swustats": "https://swustats.net/TCGEngine/NextTurn.php?gameName=51393&playerID=1&folderPath=SWUDeck"
+        "swustats": {
+          "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=51393&playerID=1&folderPath=SWUDeck",
+          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=51393"
+        }
       },
       {
         "name": "Kanan - Vigilance",
         "swudb": "https://swudb.com/deck/xFwmNpbNloCv",
-        "swustats": "https://swustats.net/TCGEngine/NextTurn.php?gameName=51818&playerID=1&folderPath=SWUDeck"
+        "swustats": {
+          "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=51818&playerID=1&folderPath=SWUDeck",
+          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=51818"
+        }
       },
       {
         "name": "Kylo5 - Data Vault",
         "swudb": "https://swudb.com/deck/TtClYeCH",
-        "swustats": "https://swustats.net/TCGEngine/NextTurn.php?gameName=52392&playerID=1&folderPath=SWUDeck"
+        "swustats": {
+          "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=52392&playerID=1&folderPath=SWUDeck",
+          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=52392"
+        }
       },
       {
         "name": "Obi-Wan5 - Cunning",
         "swudb": "https://swudb.com/deck/EqaGmSKsACzTF",
-        "swustats": "https://swustats.net/TCGEngine/NextTurn.php?gameName=49804&playerID=1&folderPath=SWUDeck"
+        "swustats": {
+          "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=49804&playerID=1&folderPath=SWUDeck",
+          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=49804"
+        }
       },
       {
         "name": "Obi-Wan5 - Vigilance",
         "swudb": "https://swudb.com/deck/uywIqInFr",
-        "swustats": "https://swustats.net/TCGEngine/NextTurn.php?gameName=51793&playerID=1&folderPath=SWUDeck"
+        "swustats": {
+          "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=51793&playerID=1&folderPath=SWUDeck",
+          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=51793"
+        }
       },
       {
         "name": "Qi'ra - Data Vault",
         "swudb": "https://swudb.com/deck/rPSGffnCEela",
-        "swustats": "https://swustats.net/TCGEngine/NextTurn.php?gameName=52235&playerID=1&folderPath=SWUDeck"
+        "swustats": {
+          "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=52235&playerID=1&folderPath=SWUDeck",
+          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=52235"
+        }
       },
       {
         "name": "Qi'ra - ECL",
         "swudb": "https://swudb.com/deck/jHBlHTINAEs",
-        "swustats": "https://swustats.net/TCGEngine/NextTurn.php?gameName=51394&playerID=1&folderPath=SWUDeck"
+        "swustats": {
+          "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=51394&playerID=1&folderPath=SWUDeck",
+          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=51394"
+        }
       },
       {
         "name": "Qui-Gon - Command",
         "swudb": "https://swudb.com/deck/hHsEqccvwe",
-        "swustats": "https://swustats.net/TCGEngine/NextTurn.php?gameName=49199&playerID=1&folderPath=SWUDeck"
+        "swustats": {
+          "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=49199&playerID=1&folderPath=SWUDeck",
+          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=49199"
+        }
       },
       {
         "name": "Quinlan - TT",
         "swudb": "https://swudb.com/deck/mISXYwrYxTyX",
-        "swustats": "https://swustats.net/TCGEngine/NextTurn.php?gameName=24003&playerID=1&folderPath=SWUDeck"
+        "swustats": {
+          "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=24003&playerID=1&folderPath=SWUDeck",
+          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=24003"
+        }
       },
       {
         "name": "Revan - Cunning",
         "swudb": "https://swudb.com/deck/VDRYeyzucc",
-        "swustats": "https://swustats.net/TCGEngine/NextTurn.php?gameName=52395&playerID=1&folderPath=SWUDeck"
+        "swustats": {
+          "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=52395&playerID=1&folderPath=SWUDeck",
+          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=52395"
+        }
       },
       {
         "name": "Rey - Vigilance",
         "swudb": "https://swudb.com/deck/MUUnWMDMw",
-        "swustats": "https://swustats.net/TCGEngine/NextTurn.php?gameName=51794&playerID=1&folderPath=SWUDeck"
+        "swustats": {
+          "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=51794&playerID=1&folderPath=SWUDeck",
+          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=51794"
+        }
       },
       {
         "name": "Talzin - Aggression",
         "swudb": "https://swudb.com/deck/flBkhszmcMqj",
-        "swustats": "https://swustats.net/TCGEngine/NextTurn.php?gameName=51792&playerID=1&folderPath=SWUDeck"
+        "swustats": {
+          "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=51792&playerID=1&folderPath=SWUDeck",
+          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=51792"
+        }
       },
       {
         "name": "Talzin - Command",
         "swudb": "https://swudb.com/deck/lfDQFxpqB",
-        "swustats": "https://swustats.net/TCGEngine/NextTurn.php?gameName=51791&playerID=1&folderPath=SWUDeck"
+        "swustats": {
+          "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=51791&playerID=1&folderPath=SWUDeck",
+          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=51791"
+        }
       },
       {
         "name": "Talzin - Cunning",
         "swudb": "https://swudb.com/deck/oVDTkrAf",
-        "swustats": "https://swustats.net/TCGEngine/NextTurn.php?gameName=51998&playerID=1&folderPath=SWUDeck"
+        "swustats": {
+          "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=51998&playerID=1&folderPath=SWUDeck",
+          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=51998"
+        }
       },
       {
         "name": "Thrawn - Cunning",
         "swudb": "https://swudb.com/deck/ntwskodP",
-        "swustats": "https://swustats.net/TCGEngine/NextTurn.php?gameName=52032&playerID=1&folderPath=SWUDeck"
+        "swustats": {
+          "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=52032&playerID=1&folderPath=SWUDeck",
+          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=52032"
+        }
       }
     ]
   }
