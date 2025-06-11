@@ -2,5 +2,8 @@
   "type": "module",
   "scripts": {
     "build-ghpages": "npx @11ty/eleventy"
+  },
+  "devDependencies": {
+    "@mightyplow/eleventy-plugin-cache-buster": "^1.1.3"
   }
 }
