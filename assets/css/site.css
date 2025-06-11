@@ -13,7 +13,7 @@ body {
 }
 
 .play-button::part(button) {
-  background-color: var(--wa-color-brand);
+  background-color: var(--wa-color-success);
   border-radius: 6px;
   font-weight: bold;
   transition: all var(--wa-transition-slow) var(--wa-transition-easing);
@@ -28,6 +28,6 @@ body {
 }
 
 .play-button::part(button):focus-visible {
-  outline: solid 2px var(--wa-color-brand);
+  outline: solid 2px var(--wa-color-success);
   outline-offset: 4px;
 }

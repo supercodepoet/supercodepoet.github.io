@@ -19,10 +19,10 @@ layout: layout.html
         <div class="wa-stack">
         {% for item in deck.list %}
           <div class="wa-flank" style="--flank-size: 25ch;">
-            <a href="{{ item.swudb }}" target="_blank">{{ item.name }}</a>
+            <a href="{{ item.swudb }}" target="_blank" class="wa-heading-s">{{ item.name }}</a>
             <div class="wa-cluster">
               <wa-button href="{{ item.swustats.stats }}" target="_blank" appearance="plain" variant="brand" size="small">Stats</wa-button>
-              <wa-copy-button value="{{ item.swustats.play }}" class="play-button wa-size-s" copy-label="Copy">
+              <wa-copy-button value="{{ item.swustats.play }}" class="play-button wa-size-s" copy-label="Copy SWUStats Link">
                 <span slot="copy-icon">
                   Play <wa-icon name="copy" variant="regular"></wa-icon>
                 </span>
