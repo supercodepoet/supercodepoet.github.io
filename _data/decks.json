@@ -37,6 +37,14 @@
         }
       },
       {
+        "name": "Han2 - Command (Force)",
+        "swudb": "https://swudb.com/deck/olLpFFWhHB",
+        "swustats": {
+          "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=53459&playerID=1&folderPath=SWUDeck",
+          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=53459"
+        }
+      },
+      {
         "name": "Han2 - Vigilance",
         "swudb": "https://swudb.com/deck/TCUknyhyqy",
         "swustats": {
