@@ -29,6 +29,14 @@
         }
       },
       {
+        "name": "Avar - Vigilance",
+        "swudb": "https://swudb.com/deck/nhmmQLNao",
+        "swustats": {
+          "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=53694&playerID=1&folderPath=SWUDeck",
+          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=53694"
+        }
+      },
+      {
         "name": "Cad Bane - TT",
         "swudb": "https://swudb.com/deck/FhqTFXxrf",
         "swustats": {
