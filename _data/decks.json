@@ -13,6 +13,22 @@
         }
       },
       {
+        "name": "Anakin - Command (Force)",
+        "swudb": "https://swudb.com/deck/GodUdWJm",
+        "swustats": {
+          "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=53642&playerID=1&folderPath=SWUDeck",
+          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=53642"
+        }
+      },
+      {
+        "name": "Anakin - Vigilance (Force)",
+        "swudb": "https://swudb.com/deck/dVhJjRhrYwj",
+        "swustats": {
+          "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=38272&playerID=1&folderPath=SWUDeck",
+          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=38272"
+        }
+      },
+      {
         "name": "Cad Bane - TT",
         "swudb": "https://swudb.com/deck/FhqTFXxrf",
         "swustats": {
