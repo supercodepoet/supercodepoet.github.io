@@ -61,6 +61,14 @@
         }
       },
       {
+        "name": "Han1 - Aggression (Force)",
+        "swudb": "https://swudb.com/deck/wdebgDDsJat",
+        "swustats": {
+          "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=53929&playerID=1&folderPath=SWUDeck",
+          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=53929"
+        }
+      },
+      {
         "name": "Han2 - Command (Force)",
         "swudb": "https://swudb.com/deck/olLpFFWhHB",
         "swustats": {
@@ -114,6 +122,14 @@
         "swustats": {
           "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=51793&playerID=1&folderPath=SWUDeck",
           "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=51793"
+        }
+      },
+      {
+        "name": "Poe - ECL",
+        "swudb": "https://swudb.com/deck/DIlLWfzzv",
+        "swustats": {
+          "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=32055&playerID=1&folderPath=SWUDeck",
+          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=32055"
         }
       },
       {
