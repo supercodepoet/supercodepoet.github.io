@@ -61,6 +61,14 @@
         }
       },
       {
+        "name": "Gar Saxon - Vigilance",
+        "swudb": "https://swudb.com/deck/wSFnQNHEVoTD",
+        "swustats": {
+          "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=55012&playerID=1&folderPath=SWUDeck",
+          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=55012"
+        }
+      },
+      {
         "name": "Han1 - Aggression (Force)",
         "swudb": "https://swudb.com/deck/wdebgDDsJat",
         "swustats": {
@@ -90,6 +98,14 @@
         "swustats": {
           "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=51393&playerID=1&folderPath=SWUDeck",
           "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=51393"
+        }
+      },
+      {
+        "name": "Hera - Cunning",
+        "swudb": "https://swudb.com/deck/lyLUqUAMHcY",
+        "swustats": {
+          "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=55014&playerID=1&folderPath=SWUDeck",
+          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=55014"
         }
       },
       {
@@ -205,11 +221,27 @@
         }
       },
       {
+        "name": "Thrawn4 - Cunning",
+        "swudb": "https://swudb.com/deck/HTRCXHTc",
+        "swustats": {
+          "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=55015&playerID=1&folderPath=SWUDeck",
+          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=55015"
+        }
+      },
+      {
         "name": "Thrawn - Cunning",
         "swudb": "https://swudb.com/deck/ntwskodP",
         "swustats": {
           "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=52032&playerID=1&folderPath=SWUDeck",
           "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=52032"
+        }
+      },
+      {
+        "name": "Thrawn - Vigilance (Force)",
+        "swudb": "https://swudb.com/deck/zRPmskEtQNEpf",
+        "swustats": {
+          "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=55016&playerID=1&folderPath=SWUDeck",
+          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=55016"
         }
       },
       {
