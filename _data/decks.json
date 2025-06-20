@@ -221,6 +221,14 @@
         }
       },
       {
+        "name": "Sabine - ECL",
+        "swudb": "https://swudb.com/deck/IrFjSkYEC",
+        "swustats": {
+          "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=24004&playerID=1&folderPath=SWUDeck",
+          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=24004"
+        }
+      },
+      {
         "name": "Talzin - Aggression",
         "swudb": "https://swudb.com/deck/flBkhszmcMqj",
         "swustats": {
