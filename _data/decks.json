@@ -77,6 +77,14 @@
         }
       },
       {
+        "name": "Han1 - Data Vault",
+        "swudb": "https://swudb.com/deck/kofyyXEF",
+        "swustats": {
+          "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=42886&playerID=1&folderPath=SWUDeck",
+          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=42886"
+        }
+      },
+      {
         "name": "Han2 - Command (Force)",
         "swudb": "https://swudb.com/deck/olLpFFWhHB",
         "swustats": {
@@ -146,6 +154,14 @@
         "swustats": {
           "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=51793&playerID=1&folderPath=SWUDeck",
           "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=51793"
+        }
+      },
+      {
+        "name": "Poe - Data Vault",
+        "swudb": "https://swudb.com/deck/qKwvFPkL",
+        "swustats": {
+          "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=46672&playerID=1&folderPath=SWUDeck",
+          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=46672"
         }
       },
       {
