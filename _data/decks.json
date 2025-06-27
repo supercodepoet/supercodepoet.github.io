@@ -291,6 +291,14 @@
           "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=40537&playerID=1&folderPath=SWUDeck",
           "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=40537"
         }
+      },
+      {
+        "name": "Yoda - Aggression (Force)",
+        "swudb": "https://swudb.com/deck/NhTqBcLwXKq",
+        "swustats": {
+          "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=57149&playerID=1&folderPath=SWUDeck",
+          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=57149"
+        }
       }
     ]
   }
