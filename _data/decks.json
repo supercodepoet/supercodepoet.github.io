@@ -29,6 +29,14 @@
         }
       },
       {
+        "name": "Avar - Aggression",
+        "swudb": "https://swudb.com/deck/aBBkoMFrar",
+        "swustats": {
+          "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=57357&playerID=1&folderPath=SWUDeck",
+          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=57357"
+        }
+      },
+      {
         "name": "Avar - Vigilance",
         "swudb": "https://swudb.com/deck/nhmmQLNao",
         "swustats": {
