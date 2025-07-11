@@ -107,6 +107,14 @@
             }
           },
           {
+            "name": "Kylo5 - ECL",
+            "swudb": "https://swudb.com/deck/abyIkVrJgVGpQ",
+            "swustats": {
+              "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=60797&playerID=1&folderPath=SWUDeck",
+              "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=60797"
+            }
+          },
+          {
             "name": "Qi'ra - Data Vault",
             "swudb": "https://swudb.com/deck/rPSGffnCEela",
             "swustats": {
