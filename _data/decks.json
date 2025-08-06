@@ -186,6 +186,14 @@
         }
       },
       {
+        "name": "Chancellor Palpatine - Vigilance",
+        "swudb": "https://swudb.com/deck/IxdvtFSl",
+        "swustats": {
+          "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=62771&playerID=1&folderPath=SWUDeck",
+          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=62771"
+        }
+      },
+      {
         "name": "Gar Saxon - Cunning",
         "swudb": "https://swudb.com/deck/SkJltThnmp",
         "swustats": {
@@ -242,6 +250,14 @@
         }
       },
       {
+        "name": "Han4 - TT",
+        "swudb": "https://swudb.com/deck/dhhQlWUeUIVVc",
+        "swustats": {
+          "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=62772&playerID=1&folderPath=SWUDeck",
+          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=62772"
+        }
+      },
+      {
         "name": "Hera - Cunning",
         "swudb": "https://swudb.com/deck/lyLUqUAMHcY",
         "swustats": {
@@ -271,6 +287,14 @@
         "swustats": {
           "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=51793&playerID=1&folderPath=SWUDeck",
           "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=51793"
+        }
+      },
+      {
+        "name": "Piett - Aggression",
+        "swudb": "https://swudb.com/deck/klYnHlEmcWw",
+        "swustats": {
+          "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=64525&playerID=1&folderPath=SWUDeck",
+          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=64525"
         }
       },
       {
