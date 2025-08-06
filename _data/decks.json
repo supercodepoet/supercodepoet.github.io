@@ -274,6 +274,14 @@
         }
       },
       {
+        "name": "Luke4 - Data Vault",
+        "swudb": "https://swudb.com/deck/LNzloSRMyV",
+        "swustats": {
+          "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=64567&playerID=1&folderPath=SWUDeck",
+          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=64567"
+        }
+      },
+      {
         "name": "Obi-Wan5 - Cunning",
         "swudb": "https://swudb.com/deck/EqaGmSKsACzTF",
         "swustats": {
