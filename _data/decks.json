@@ -5,17 +5,9 @@
     "icon": "user-bounty-hunter",
     "archetypes": [
       {
-        "id": "aggression",
-        "name": "Aggression",
+        "id": "aggro-burn",
+        "name": "Aggro/Burn",
         "list": [
-          {
-            "name": "Poe - ECL",
-            "swudb": "https://swudb.com/deck/DIlLWfzzv",
-            "swustats": {
-              "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=32055&playerID=1&folderPath=SWUDeck",
-              "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=32055"
-            }
-          },
           {
             "name": "Sabine - ECL",
             "swudb": "https://swudb.com/deck/IrFjSkYEC",
@@ -95,8 +87,8 @@
         ]
       },
       {
-        "id": "control",
-        "name": "Control",
+        "id": "tall-ramp",
+        "name": "Tall/Ramp",
         "list": [
           {
             "name": "Kylo5 - Data Vault",
@@ -115,6 +107,14 @@
             }
           },
           {
+            "name": "Palpatine - Cunning",
+            "swudb": "https://swudb.com/deck/HNCWuYbuxz",
+            "swustats": {
+              "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=64513&playerID=1&folderPath=SWUDeck",
+              "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=64513"
+            }
+          },
+          {
             "name": "Qi'ra - Data Vault",
             "swudb": "https://swudb.com/deck/rPSGffnCEela",
             "swustats": {
@@ -128,6 +128,20 @@
             "swustats": {
               "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=51394&playerID=1&folderPath=SWUDeck",
               "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=51394"
+            }
+          }
+        ]
+      },
+      {
+        "id": "control-combo",
+        "name": "Control/Combo",
+        "list": [
+          {
+            "name": "Kylo5 - TT",
+            "swudb": "https://swudb.com/deck/ahgngyXorHN",
+            "swustats": {
+              "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=62773&playerID=1&folderPath=SWUDeck",
+              "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=62773"
             }
           }
         ]
@@ -265,6 +279,14 @@
         "swustats": {
           "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=46672&playerID=1&folderPath=SWUDeck",
           "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=46672"
+        }
+      },
+      {
+        "name": "Poe - ECL",
+        "swudb": "https://swudb.com/deck/DIlLWfzzv",
+        "swustats": {
+          "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=32055&playerID=1&folderPath=SWUDeck",
+          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=32055"
         }
       },
       {
