@@ -9,6 +9,14 @@
         "name": "Aggro/Burn",
         "list": [
           {
+            "name": "Boba4 - Data Vault",
+            "swudb": "https://swudb.com/deck/THFpvmeBbC",
+            "swustats": {
+              "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=66629&playerID=1&folderPath=SWUDeck",
+              "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=66629"
+            }
+          },
+          {
             "name": "Sabine - ECL",
             "swudb": "https://swudb.com/deck/IrFjSkYEC",
             "swustats": {
