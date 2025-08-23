@@ -282,6 +282,14 @@
         }
       },
       {
+        "name": "Kazuda - Aggression",
+        "swudb": "https://swudb.com/deck/skEJvqCoP",
+        "swustats": {
+          "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=68131&playerID=1&folderPath=SWUDeck",
+          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=68131"
+        }
+      },
+      {
         "name": "Luke4 - Data Vault",
         "swudb": "https://swudb.com/deck/LNzloSRMyV",
         "swustats": {
