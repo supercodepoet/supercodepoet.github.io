@@ -7,12 +7,14 @@ layout: layout.html
   </header>
   <main class="wa-body-m">
     <div class="wa-align-items-center">
-      <wa-callout variant="warning">
-        When playing on <a href="https://petranaki.net" target="_blank">Petranaki</a>, use the SWU Stats link. By using that
-        link, it will aggregate stats for the deck.
-      </wa-callout>
+      <p>
+        <wa-callout variant="warning">
+          When playing on <a href="https://petranaki.net" target="_blank">Petranaki</a>, use the SWU Stats link. By using that
+          link, it will aggregate stats for the deck.
+        </wa-callout>
+      </p>
     {% for deck in decks %}
-      <wa-details open>
+      <wa-details {% if deck.showOpen %}open{% endif %}>
         <div slot="summary">
           <h4><wa-icon name="{{ deck.icon }}"></wa-icon> {{ deck.name }}</h4>
         </div>
