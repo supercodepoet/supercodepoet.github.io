@@ -24,7 +24,7 @@ layout: layout.html
             <h5>{{ archetype.name }}</h5>
             <wa-divider></wa-divider>
             {% for item in archetype.list %}
-              <div class="wa-flank" style="--flank-size: 25ch;">
+              <div class="wa-flank" style="--flank-size: 30ch;">
                 <a href="{{ item.swudb }}" target="_blank" class="wa-heading-s">{{ item.name }}</a>
                 <div class="wa-cluster">
                   <wa-button href="{{ item.swustats.stats }}" target="_blank" appearance="plain" variant="brand"
@@ -40,7 +40,7 @@ layout: layout.html
           </div>
         {% endfor %}
         {% for item in deck.list %}
-          <div class="wa-flank" style="--flank-size: 25ch;">
+          <div class="wa-flank" style="--flank-size: 30ch;">
             <a href="{{ item.swudb }}" target="_blank" class="wa-heading-s">{{ item.name }}</a>
             <div class="wa-cluster">
               <wa-button href="{{ item.swustats.stats }}" target="_blank" appearance="plain" variant="brand" size="small">Stats</wa-button>
