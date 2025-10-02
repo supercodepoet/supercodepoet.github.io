@@ -397,6 +397,14 @@
           "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=73402&playerID=1&folderPath=SWUDeck",
           "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=73402"
         }
+      },
+      {
+        "name": "Yoda - Command (Force)",
+        "swudb": "https://swudb.com/deck/vtDSetFnMqoMW",
+        "swustats": {
+          "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=75533&playerID=1&folderPath=SWUDeck",
+          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=75533"
+        }
       }
     ]
   }
