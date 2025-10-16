@@ -172,14 +172,6 @@
         }
       },
       {
-        "name": "Chirrut - Yellow (Force)",
-        "swudb": "https://swudb.com/deck/BgzSuemfFxxPp",
-        "swustats": {
-          "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=73364&playerID=1&folderPath=SWUDeck",
-          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=73364"
-        }
-      },
-      {
         "name": "Gar Saxon - Cunning",
         "swudb": "https://swudb.com/deck/SkJltThnmp",
         "swustats": {
@@ -196,35 +188,11 @@
         }
       },
       {
-        "name": "Han1 - Aggression",
-        "swudb": "https://swudb.com/deck/sSSPRhcw",
-        "swustats": {
-          "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=73369&playerID=1&folderPath=SWUDeck",
-          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=73369"
-        }
-      },
-      {
         "name": "Han 1 - Aggression (Force)",
         "swudb": "https://swudb.com/deck/wdebgDDsJat",
         "swustats": {
           "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=73370&playerID=1&folderPath=SWUDeck",
           "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=73370"
-        }
-      },
-      {
-        "name": "Han1 - Cunning",
-        "swudb": "https://swudb.com/deck/uDHGIgTrPzY",
-        "swustats": {
-          "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=73372&playerID=1&folderPath=SWUDeck",
-          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=73372"
-        }
-      },
-      {
-        "name": "Han1 - Data Vault",
-        "swudb": "https://swudb.com/deck/kofyyXEF",
-        "swustats": {
-          "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=73373&playerID=1&folderPath=SWUDeck",
-          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=73373"
         }
       },
       {
