@@ -10,14 +10,6 @@
         "name": "Aggro/Burn",
         "list": [
           {
-            "name": "Boba4 - Data Vault",
-            "swudb": "https://swudb.com/deck/THFpvmeBbC",
-            "swustats": {
-              "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=73359&playerID=1&folderPath=SWUDeck",
-              "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=73359"
-            }
-          },
-          {
             "name": "Cad Bane - Tarkintown (1 drop)",
             "swudb": "https://swudb.com/deck/AKxvpVeUT",
             "swustats": {
@@ -32,22 +24,6 @@
               "play": "https://www.swustats.net/TCGEngine/NextTurn.php?gameName=80855&playerID=1&folderPath=SWUDeck",
               "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=80855"
             }
-          },
-          {
-            "name": "Sabine - ECL",
-            "swudb": "https://swudb.com/deck/IrFjSkYEC",
-            "swustats": {
-              "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=73396&playerID=1&folderPath=SWUDeck",
-              "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=73396"
-            }
-          },
-          {
-            "name": "Vader4 - Cunning",
-            "swudb": "https://swudb.com/deck/YVxGakMF",
-            "swustats": {
-              "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=73401&playerID=1&folderPath=SWUDeck",
-              "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=73401"
-            }
           }
         ]
       },
@@ -55,14 +31,6 @@
         "id": "tempo",
         "name": "Tempo",
         "list": [
-          {
-            "name": "Gar Saxon - ECL",
-            "swudb": "https://swudb.com/deck/cUBkeWCIV",
-            "swustats": {
-              "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=73367&playerID=1&folderPath=SWUDeck",
-              "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=73367"
-            }
-          },
           {
             "name": "Han1 - Command",
             "swudb": "https://swudb.com/deck/ddJWnutGfzsX",
@@ -78,6 +46,14 @@
               "play": "https://www.swustats.net/TCGEngine/NextTurn.php?gameName=87701&playerID=1&folderPath=SWUDeck",
               "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=87701"
             }
+          },
+          {
+            "name": "Han1 - Tarkintown",
+            "swudb": "https://swudb.com/deck/mqTsASGazH",
+            "swustats": {
+              "play": "https://www.swustats.net/TCGEngine/NextTurn.php?gameName=89498&playerID=1&folderPath=SWUDeck",
+              "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=89498"
+            }
           }
         ]
       },
@@ -86,19 +62,11 @@
         "name": "Midrange",
         "list": [
           {
-            "name": "Anakin3 - Data Vault",
-            "swudb": "https://swudb.com/deck/MnLrNppUYgT",
+            "name": "Han2 - Vigilance (Force) - Villain",
+            "swudb": "https://swudb.com/deck/fDWqRIhJMLL",
             "swustats": {
-              "play": "https://www.swustats.net/TCGEngine/NextTurn.php?gameName=81479&playerID=1&folderPath=SWUDeck",
-              "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=81479"
-            }
-          },
-          {
-            "name": "Han2 - Vigilance (Force)",
-            "swudb": "https://swudb.com/deck/WbcyrPda",
-            "swustats": {
-              "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=73377&playerID=1&folderPath=SWUDeck",
-              "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=73377"
+              "play": "https://www.swustats.net/TCGEngine/NextTurn.php?gameName=84302&playerID=1&folderPath=SWUDeck",
+              "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=84302"
             }
           },
           {
@@ -148,20 +116,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "hard-control",
-        "name": "Hard Control",
-        "list": [
-          {
-            "name": "Iden - Data Vault",
-            "swudb": "https://swudb.com/deck/JApBskccF",
-            "swustats": {
-              "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=73379&playerID=1&folderPath=SWUDeck",
-              "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=73379"
-            }
-          }
-        ]
       }
     ]
   },
@@ -169,168 +123,7 @@
     "id": "other-decks",
     "name": "Other Decks",
     "icon": "brain-circuit",
-    "showOpen": true,
-    "list": [
-      {
-        "name": "Anakin3 - Vigilance (Force)",
-        "swudb": "https://swudb.com/deck/dVhJjRhrYwj",
-        "swustats": {
-          "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=73357&playerID=1&folderPath=SWUDeck",
-          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=73357"
-        }
-      },
-      {
-        "name": "Boba4 - Cunning",
-        "swudb": "https://swudb.com/deck/osCoTwxvfY",
-        "swustats": {
-          "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=73358&playerID=1&folderPath=SWUDeck",
-          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=73358"
-        }
-      },
-      {
-        "name": "Cad Bane - Tarkintown",
-        "swudb": "https://swudb.com/deck/FhqTFXxrf",
-        "swustats": {
-          "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=73360&playerID=1&folderPath=SWUDeck",
-          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=73360"
-        }
-      },
-      {
-        "name": "Gar Saxon - Cunning",
-        "swudb": "https://swudb.com/deck/SkJltThnmp",
-        "swustats": {
-          "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=73365&playerID=1&folderPath=SWUDeck",
-          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=73365"
-        }
-      },
-      {
-        "name": "Han1 - Data Vault",
-        "swudb": "https://swudb.com/deck/TBIJmURjY",
-        "swustats": {
-          "play": "https://www.swustats.net/TCGEngine/NextTurn.php?gameName=80711&playerID=1&folderPath=SWUDeck",
-          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=80711"
-        }
-      },
-      {
-        "name": "Han1 - Vigilance (Force)",
-        "swudb": "https://swudb.com/deck/MCTuYjbYAt",
-        "swustats": {
-          "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=73374&playerID=1&folderPath=SWUDeck",
-          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=73374 "
-        }
-      },
-      {
-        "name": "Han2 - Data Vault",
-        "swudb": "https://swudb.com/deck/xkDTbFYs",
-        "swustats": {
-          "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=73376&playerID=1&folderPath=SWUDeck",
-          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=73376"
-        }
-      },
-      {
-        "name": "Han4 - Aggression",
-        "swudb": "https://swudb.com/deck/dhhQlWUeUIVVc",
-        "swustats": {
-          "play": "https://www.swustats.net/TCGEngine/NextTurn.php?gameName=73378&playerID=1&folderPath=SWUDeck",
-          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=73378"
-        }
-      },
-      {
-        "name": "Han4 - Tarkintown",
-        "swudb": "https://swudb.com/deck/YvFxkYhsEvyNQ",
-        "swustats": {
-          "play": "https://www.swustats.net/TCGEngine/NextTurn.php?gameName=80852&playerID=1&folderPath=SWUDeck",
-          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=80852"
-        }
-      },
-      {
-        "name": "Kazuda - Aggression",
-        "swudb": "https://swudb.com/deck/skEJvqCoP",
-        "swustats": {
-          "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=73380&playerID=1&folderPath=SWUDeck",
-          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=73380"
-        }
-      },
-      {
-        "name": "Luke4 - Data Vault",
-        "swudb": "https://swudb.com/deck/LNzloSRMyV",
-        "swustats": {
-          "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=73384&playerID=1&folderPath=SWUDeck",
-          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=73384"
-        }
-      },
-      {
-        "name": "Poe - ECL",
-        "swudb": "https://swudb.com/deck/DIlLWfzzv",
-        "swustats": {
-          "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=73390&playerID=1&folderPath=SWUDeck",
-          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=73390"
-        }
-      },
-      {
-        "name": "Quinlan - Tarkintown",
-        "swudb": "https://swudb.com/deck/mISXYwrYxTyX",
-        "swustats": {
-          "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=73393&playerID=1&folderPath=SWUDeck",
-          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=73393"
-        }
-      },
-      {
-        "name": "Rey - Data Vault",
-        "swudb": "https://swudb.com/deck/ojxqqBpySaKT",
-        "swustats": {
-          "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=73394&playerID=1&folderPath=SWUDeck",
-          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=73394"
-        }
-      },
-      {
-        "name": "Sabine - Cunning",
-        "swudb": "https://swudb.com/deck/yfXPPWEt",
-        "swustats": {
-          "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=73395&playerID=1&folderPath=SWUDeck",
-          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=73395"
-        }
-      },
-      {
-        "name": "Talzin - Aggression (Force)",
-        "swudb": "https://swudb.com/deck/flBkhszmcMqj",
-        "swustats": {
-          "play": "https://www.swustats.net/TCGEngine/NextTurn.php?gameName=73397&playerID=1&folderPath=SWUDeck",
-          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=73397"
-        }
-      },
-      {
-        "name": "Talzin - Cunning (Force)",
-        "swudb": "https://swudb.com/deck/oVDTkrAf",
-        "swustats": {
-          "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=73398&playerID=1&folderPath=SWUDeck",
-          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=73398"
-        }
-      },
-      {
-        "name": "Thrawn4 - Data Vault",
-        "swudb": "https://swudb.com/deck/fSWwsWVRLKz",
-        "swustats": {
-          "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=73400&playerID=1&folderPath=SWUDeck",
-          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=73400"
-        }
-      },
-      {
-        "name": "Yoda - Aggression (Force)",
-        "swudb": "https://swudb.com/deck/NhTqBcLwXKq",
-        "swustats": {
-          "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=73402&playerID=1&folderPath=SWUDeck",
-          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=73402"
-        }
-      },
-      {
-        "name": "Yoda - Command (Force)",
-        "swudb": "https://swudb.com/deck/vtDSetFnMqoMW",
-        "swustats": {
-          "play": "https://swustats.net/TCGEngine/NextTurn.php?gameName=75533&playerID=1&folderPath=SWUDeck",
-          "stats": "https://swustats.net/TCGEngine/SWUDeck/DeckStats.php?gameName=75533 "
-        }
-      }
-    ]
+    "showOpen": false,
+    "list": []
   }
 ]
