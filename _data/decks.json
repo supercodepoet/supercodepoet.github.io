@@ -1,5 +1,45 @@
 [
   {
+    "id": "brewing-decks",
+    "name": "Brewing",
+    "icon": "cauldron",
+    "showOpen": true,
+    "list": [
+      {
+        "name": "Boba4 - Cunning",
+        "swudb": "https://swudb.com/deck/eUFytbgtD"
+      },
+      {
+        "name": "Enfys - Cunning (Splash)",
+        "swudb": "https://swudb.com/deck/YNflnavwVVQo"
+      },
+      {
+        "name": "Jyn7 - Aggression (Splash)",
+        "swudb": "https://swudb.com/deck/LAzyATSNJTT"
+      },
+      {
+        "name": "Lando - Vigilance (Splash)",
+        "swudb": "https://swudb.com/deck/SjIpCELog"
+      },
+      {
+        "name": "Obi5 - Vergence Temple",
+        "swudb": "https://swudb.com/deck/IudbUGhs"
+      },
+      {
+        "name": "Sabe - Data Vault",
+        "swudb": "https://swudb.com/deck/uNxlzAnRm"
+      },
+      {
+        "name": "Talzin - Aggression (Force)",
+        "swudb": "https://swudb.com/deck/TelPoPHVjktCg"
+      },
+      {
+        "name": "Talzin - Cunning (Force)",
+        "swudb": "https://swudb.com/deck/SDBzUHdpzuvk"
+      }
+    ]
+  },
+  {
     "id": "meta-decks",
     "name": "Meta Decks",
     "icon": "user-bounty-hunter",
