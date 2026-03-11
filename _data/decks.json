@@ -6,8 +6,16 @@
     "showOpen": true,
     "list": [
       {
+        "name": "Beckett - Aggression",
+        "swudb": "https://swudb.com/deck/DEMSAREeHcnrn"
+      },
+      {
         "name": "Boba4 - Cunning",
         "swudb": "https://swudb.com/deck/eUFytbgtD"
+      },
+      {
+        "name": "Chewbacca7 - Cunning",
+        "swudb": "https://swudb.com/deck/lCLlxynlGB"
       },
       {
         "name": "Enfys - Cunning (Splash)",
@@ -16,6 +24,10 @@
       {
         "name": "Jyn7 - Aggression (Splash)",
         "swudb": "https://swudb.com/deck/LAzyATSNJTT"
+      },
+      {
+        "name": "Kylo5 - Aggression",
+        "swudb": "https://swudb.com/deck/PGtlMVMpzkM"
       },
       {
         "name": "Kylo5 - Aggression (Splash)",
@@ -27,6 +39,10 @@
       },
       {
         "name": "Luke4 - Cunning",
+        "swudb": "https://swudb.com/deck/bvIUbEry"
+      },
+      {
+        "name": "Luke4 - Cunning -THTS",
         "swudb": "https://swudb.com/deck/PhPjFwUy"
       },
       {
@@ -36,6 +52,10 @@
       {
         "name": "Obi5 - Vergence Temple",
         "swudb": "https://swudb.com/deck/IudbUGhs"
+      },
+      {
+        "name": "Obi5 - Vigilance (Force)",
+        "swudb": "https://swudb.com/deck/jTcTkeCHv"
       },
       {
         "name": "Sabe - Data Vault",
