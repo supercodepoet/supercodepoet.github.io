@@ -6,6 +6,10 @@
     "showOpen": true,
     "list": [
       {
+        "name": "Aurra - Data Vault",
+        "swudb": "https://swudb.com/deck/ynmGeNfREfwky"
+      },
+      {
         "name": "Beckett - Aggression",
         "swudb": "https://swudb.com/deck/DEMSAREeHcnrn"
       },
@@ -88,6 +92,10 @@
       {
         "name": "Talzin - Cunning (Force)",
         "swudb": "https://swudb.com/deck/SDBzUHdpzuvk"
+      },
+      {
+        "name": "Vader4 - Cunning",
+        "swudb": "https://swudb.com/deck/cTwDMeLvjFs"
       }
     ]
   },
